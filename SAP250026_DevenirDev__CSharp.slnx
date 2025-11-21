@@ -4,4 +4,7 @@
     <Project Path="DemoIntroduction/DemoIntroduction.csproj" />
     <Project Path="DemoIntroductionWithoutTopLevel/DemoIntroductionWithoutTopLevel.csproj" />
   </Folder>
+  <Folder Name="/02 Variables/">
+    <Project Path="DemoVariables/DemoVariables.csproj" Id="e33c4708-4d38-4e11-8fe3-a23b7a76d8bf" />
+  </Folder>
 </Solution>
