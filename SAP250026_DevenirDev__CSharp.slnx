@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/01 Introduction/">
+    <Project Path="ASupprimer/ASupprimer.csproj" />
+    <Project Path="DemoIntroduction/DemoIntroduction.csproj" />
+    <Project Path="DemoIntroductionWithoutTopLevel/DemoIntroductionWithoutTopLevel.csproj" />
+  </Folder>
+</Solution>
