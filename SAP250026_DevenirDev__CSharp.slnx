@@ -6,5 +6,9 @@
   </Folder>
   <Folder Name="/02 Variables/">
     <Project Path="DemoVariables/DemoVariables.csproj" Id="e33c4708-4d38-4e11-8fe3-a23b7a76d8bf" />
+    <Project Path="ExerciceInformationsUtilisateur/ExerciceInformationsUtilisateur.csproj" Id="6003a0b5-f361-41f1-a898-cd12f856be59" />
+  </Folder>
+  <Folder Name="/03 Conversions/">
+    <Project Path="DemoConversions/DemoConversions.csproj" Id="ca570c43-847a-4b7c-a2ea-8a0e39dc5dd5" />
   </Folder>
 </Solution>
