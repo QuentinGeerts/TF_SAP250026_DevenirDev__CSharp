@@ -5,6 +5,8 @@
 // 1.  ToString()
 // Convertir type → string
 
+using DemoConversions;
+
 int a = 42;
 
 Console.WriteLine(a.GetType());
@@ -67,3 +69,27 @@ while (!validValue)
 }
 
 Console.WriteLine($"Valeur correcte: {result}");
+
+
+// 5.  Transtypage (cast)
+
+// 5.1. Conversion implicite (pas de potentiel perte de données)
+// Exemple: int → long
+
+int entier1 = 42;
+long long1 = entier1; // Conversion implicite
+int entier2 = (int)long1; // Conversion explicite
+
+// 5.2.  Boxing / Unboxing
+
+// 5.2.1.  Boxing: Type valeur → type référence
+int monEntier = 42;
+object monObjet = monEntier; // Polymorphisme + boxing
+
+Personne personne = new Personne();
+object monObjet2 = personne; // Polymorphisme (pilier OO)
+
+// 5.2.2.  Unboxing: Type référence → type valeur
+
+int monEntier2 = (int)monObjet; // Unboxing
+Personne p2 = (Personne)monObjet2;

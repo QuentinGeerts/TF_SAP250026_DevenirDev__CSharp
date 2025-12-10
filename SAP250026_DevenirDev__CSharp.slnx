@@ -11,4 +11,7 @@
   <Folder Name="/03 Conversions/">
     <Project Path="DemoConversions/DemoConversions.csproj" Id="ca570c43-847a-4b7c-a2ea-8a0e39dc5dd5" />
   </Folder>
+  <Folder Name="/Exercices/">
+    <Project Path="Page106ExoA/Page106ExoA.csproj" Id="f5110e28-5993-45c1-aafb-776295ee9c2a" />
+  </Folder>
 </Solution>
