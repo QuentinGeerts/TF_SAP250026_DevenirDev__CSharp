@@ -17,6 +17,7 @@
 //Console.WriteLine('L\'ambulance arrive à toute allure.');
 Console.WriteLine("L'ambulance arrive à toute allure.");
 Console.WriteLine("Tu t'appelles \"Quentin\"");
+Console.WriteLine('H');
 
 Console.Write("Hello");
 Console.Write("World !");

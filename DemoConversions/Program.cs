@@ -45,3 +45,25 @@ Console.WriteLine(conversionReussie2);
 Console.WriteLine($"Valeur à convertir: {d}, type origine: {d.GetType()}");
 Console.WriteLine($"Valeur de dConverted: {eConverted}, type origine: {eConverted.GetType()}");
 
+
+Console.Clear();
+
+// 4.1. Exemple
+Console.WriteLine($"Entrez un nombre entre 0 et 10 : ");
+int result = 0;
+bool validValue = false;
+
+while (!validValue)
+{
+    while (!int.TryParse(Console.ReadLine(), out result))
+    {
+        Console.WriteLine($"Tu dois entrer un nombre ! Réessaie:");
+    }
+
+    Console.WriteLine($"Tu as entré: {result}");
+
+    if (result >= 0 && result <= 10) validValue = true;
+    else Console.WriteLine($"La valeur doit être comprise entre 0 et 10 !!!");
+}
+
+Console.WriteLine($"Valeur correcte: {result}");

@@ -9,6 +9,9 @@
             Console.WriteLine("Hello, World!" + args);
         }
 
+        /// <summary>
+        /// Ma méthode Main2
+        /// </summary>
         void Main2 ()
         {
             int age2;
