@@ -18,6 +18,9 @@
     <Project Path="DemoOperateurs/DemoOperateurs.csproj" Id="71a21b4f-2c7b-475e-9188-ec015d27412a" />
     <Project Path="DemoPatternMatching/DemoPatternMatching.csproj" Id="bb66242a-37bf-484b-9b74-95828a3fb3ed" />
   </Folder>
+  <Folder Name="/06 Structures iteratives/">
+    <Project Path="DemoStructuresIteratives/DemoStructuresIteratives.csproj" Id="fca782b0-ec4a-4c93-a13f-0e3736bfdeab" />
+  </Folder>
   <Folder Name="/Bonus/">
     <Project Path="Methodes/Methodes.csproj" Id="8fdfe624-d030-4bc1-9c2d-a65480ec4774" />
   </Folder>
