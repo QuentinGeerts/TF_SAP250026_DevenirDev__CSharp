@@ -18,8 +18,7 @@
     <Project Path="Methodes/Methodes.csproj" Id="8fdfe624-d030-4bc1-9c2d-a65480ec4774" />
   </Folder>
   <Folder Name="/Exercices/">
-    <Project Path="ExerciceBonus02LanceurBalles/ExerciceBonus02LanceurBalles.csproj" Id="ef2408d4-d6ef-4510-9071-6d74c85695c1" />
-    <Project Path="ExercicesBonus01Bissextile/ExerciceBonus01Bissextile.csproj" Id="638bc0c2-a7db-4a76-acdd-98f58464af6e" />
+    <Project Path="ExerciceBonus01Bissextile/ExerciceBonus01Bissextile.csproj" Id="638bc0c2-a7db-4a76-acdd-98f58464af6e" />
     <Project Path="Page106ExoA/Page106ExoA.csproj" Id="f5110e28-5993-45c1-aafb-776295ee9c2a" />
     <Project Path="Page116ExoA/Page116ExoA.csproj" Id="f1234fef-57ef-4c65-9db6-6ee874e1d894" />
   </Folder>
