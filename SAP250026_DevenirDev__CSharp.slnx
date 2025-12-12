@@ -23,6 +23,7 @@
   </Folder>
   <Folder Name="/07 Tableaux/">
     <Project Path="DemoTableau/DemoTableau.csproj" Id="8adb9426-e052-4e94-9286-8b8be9c5d1f4" />
+    <Project Path="DemoTableauOrthogonal/DemoTableauOrthogonal.csproj" Id="7a3265f6-ce95-4182-87d5-002c01763d3f" />
   </Folder>
   <Folder Name="/Bonus/">
     <Project Path="Methodes/Methodes.csproj" Id="8fdfe624-d030-4bc1-9c2d-a65480ec4774" />
