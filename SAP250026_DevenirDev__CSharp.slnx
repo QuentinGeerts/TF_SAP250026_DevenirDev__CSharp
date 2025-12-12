@@ -22,6 +22,8 @@
     <Project Path="DemoStructuresIteratives/DemoStructuresIteratives.csproj" Id="fca782b0-ec4a-4c93-a13f-0e3736bfdeab" />
   </Folder>
   <Folder Name="/07 Tableaux/">
+    <Project Path="DemoCollectionGeneriqueDictionary/DemoCollectionGeneriqueDictionary.csproj" Id="70ad33c8-fbb1-4bc5-a9b0-ffcf5cdec2f3" />
+    <Project Path="DemoCollectionGeneriqueList/DemoCollectionGeneriqueList.csproj" Id="41919ba6-4016-4602-9d17-694f6c93f888" />
     <Project Path="DemoCollectionHashtable/DemoCollectionHashtable.csproj" Id="d1f05cf3-f656-42f6-bdf1-786397139111" />
     <Project Path="DemoCollectionQueue/DemoCollectionQueue.csproj" Id="15b26458-7ca5-4ffb-8fad-17c790d08066" />
     <Project Path="DemoCollectionsArrayList/DemoCollectionsArrayList.csproj" Id="f19e82b7-266a-4203-9e76-2e75b1418932" />

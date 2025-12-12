@@ -16,3 +16,10 @@ hashtable.Add("0002", 42);
 //hashtable.Add(null, 52); // ArgumentNullException
 
 Console.WriteLine();
+
+// 3.  Parcourt
+
+foreach (DictionaryEntry item in hashtable)
+{
+    Console.WriteLine($"Item: {item} => Clef: {item.Key} | Valeur: {item.Value}");
+}

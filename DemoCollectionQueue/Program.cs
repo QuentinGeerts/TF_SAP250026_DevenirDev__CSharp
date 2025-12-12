@@ -8,7 +8,8 @@ using System.Collections;
 
 // 1.  Déclaration
 
-Queue queue = new Queue();
+Queue queue = new Queue(); // Non-générique
+Queue<string> fileAttente= new Queue<string>(); // Générique
 
 
 // 2.  Enqueue : permet d'ajouter un élément à la fois

@@ -7,6 +7,7 @@ using System.Collections;
 
 // 1.  Déclaration
 Stack stack = new Stack();
+Stack<string> pileAssiettes = new Stack<string>(); // Générique
 
 stack.Push("Assiette 1");
 stack.Push("Assiette 2");
