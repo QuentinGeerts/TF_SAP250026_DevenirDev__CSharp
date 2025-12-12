@@ -22,6 +22,10 @@
     <Project Path="DemoStructuresIteratives/DemoStructuresIteratives.csproj" Id="fca782b0-ec4a-4c93-a13f-0e3736bfdeab" />
   </Folder>
   <Folder Name="/07 Tableaux/">
+    <Project Path="DemoCollectionHashtable/DemoCollectionHashtable.csproj" Id="d1f05cf3-f656-42f6-bdf1-786397139111" />
+    <Project Path="DemoCollectionQueue/DemoCollectionQueue.csproj" Id="15b26458-7ca5-4ffb-8fad-17c790d08066" />
+    <Project Path="DemoCollectionsArrayList/DemoCollectionsArrayList.csproj" Id="f19e82b7-266a-4203-9e76-2e75b1418932" />
+    <Project Path="DemoCollectionStack/DemoCollectionStack.csproj" Id="416a1002-989a-4c1f-8606-80557cb4e6b7" />
     <Project Path="DemoTableau/DemoTableau.csproj" Id="8adb9426-e052-4e94-9286-8b8be9c5d1f4" />
     <Project Path="DemoTableauMatriciel/DemoTableauMatriciel.csproj" Id="0b0ebef2-66b5-4c0e-943e-6ab109305c48" />
     <Project Path="DemoTableauOrthogonal/DemoTableauOrthogonal.csproj" Id="7a3265f6-ce95-4182-87d5-002c01763d3f" />
