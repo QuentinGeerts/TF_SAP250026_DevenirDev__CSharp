@@ -21,6 +21,9 @@
   <Folder Name="/06 Structures iteratives/">
     <Project Path="DemoStructuresIteratives/DemoStructuresIteratives.csproj" Id="fca782b0-ec4a-4c93-a13f-0e3736bfdeab" />
   </Folder>
+  <Folder Name="/07 Tableaux/">
+    <Project Path="DemoTableau/DemoTableau.csproj" Id="8adb9426-e052-4e94-9286-8b8be9c5d1f4" />
+  </Folder>
   <Folder Name="/Bonus/">
     <Project Path="Methodes/Methodes.csproj" Id="8fdfe624-d030-4bc1-9c2d-a65480ec4774" />
   </Folder>
