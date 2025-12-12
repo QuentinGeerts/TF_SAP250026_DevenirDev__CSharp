@@ -38,6 +38,7 @@
   <Folder Name="/Exercices/">
     <Project Path="ExerciceBonus01Bissextile/ExerciceBonus01Bissextile.csproj" Id="638bc0c2-a7db-4a76-acdd-98f58464af6e" />
     <Project Path="ExerciceBonus02LanceurBalles/ExerciceBonus02LanceurBalles.csproj" />
+    <Project Path="ExerciceBonusCollection4Et5/ExerciceBonusCollection4Et5.csproj" Id="22720514-9af4-409f-a416-f507e9e78040" />
     <Project Path="ExerciceBonusTableau3Scores/ExerciceBonusTableau3Scores.csproj" Id="778d2a0a-9eff-4a19-af13-cb9311e54409" />
     <Project Path="Page106ExoA/Page106ExoA.csproj" Id="f5110e28-5993-45c1-aafb-776295ee9c2a" />
     <Project Path="Page116ExoA/Page116ExoA.csproj" Id="f1234fef-57ef-4c65-9db6-6ee874e1d894" />
@@ -45,5 +46,8 @@
     <Project Path="Page140ExoB/Page140ExoB.csproj" Id="693670b0-0187-46b1-a837-aad4af1645c4" />
     <Project Path="Page150ExoA/Page150ExoA.csproj" Id="20351580-93c5-4ec7-8302-98ef1e8d0c1c" />
     <Project Path="Page150ExoB/Page150ExoB.csproj" Id="77ee9e91-2b39-4aa8-a4ea-5b370ff1719b" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="readme.md" />
   </Folder>
 </Solution>
