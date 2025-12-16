@@ -32,6 +32,10 @@
     <Project Path="DemoTableauMatriciel/DemoTableauMatriciel.csproj" Id="0b0ebef2-66b5-4c0e-943e-6ab109305c48" />
     <Project Path="DemoTableauOrthogonal/DemoTableauOrthogonal.csproj" Id="7a3265f6-ce95-4182-87d5-002c01763d3f" />
   </Folder>
+  <Folder Name="/08 Enum/">
+    <Project Path="DemoEnum/DemoEnum.csproj" Id="6af8db9a-211a-4230-a8c8-980c663c746a" />
+  </Folder>
+  <Folder Name="/09 Methodes/" />
   <Folder Name="/Bonus/">
     <Project Path="Methodes/Methodes.csproj" Id="8fdfe624-d030-4bc1-9c2d-a65480ec4774" />
   </Folder>
