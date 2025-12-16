@@ -38,6 +38,9 @@
   <Folder Name="/09 Methodes/">
     <Project Path="DemoMethodes/DemoMethodes.csproj" Id="6fa9463c-5009-4f9d-90d6-6d55b1af8228" />
   </Folder>
+  <Folder Name="/10 Structures/">
+    <Project Path="DemoStructures/DemoStructures.csproj" Id="510151d4-90c6-4451-9153-64992802d94a" />
+  </Folder>
   <Folder Name="/Bonus/">
     <Project Path="Methodes/Methodes.csproj" Id="8fdfe624-d030-4bc1-9c2d-a65480ec4774" />
   </Folder>
