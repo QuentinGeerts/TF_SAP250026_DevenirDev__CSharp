@@ -45,6 +45,7 @@
     <Project Path="Methodes/Methodes.csproj" Id="8fdfe624-d030-4bc1-9c2d-a65480ec4774" />
   </Folder>
   <Folder Name="/Exercices/">
+    <Project Path="BookManager/BookManager.csproj" Id="ebf53db1-b573-4187-8650-ea2fa1e0617f" />
     <Project Path="ExerciceBonus01Bissextile/ExerciceBonus01Bissextile.csproj" Id="638bc0c2-a7db-4a76-acdd-98f58464af6e" />
     <Project Path="ExerciceBonus02LanceurBalles/ExerciceBonus02LanceurBalles.csproj" />
     <Project Path="ExerciceBonusCollection4Et5/ExerciceBonusCollection4Et5.csproj" Id="22720514-9af4-409f-a416-f507e9e78040" />
